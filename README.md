@@ -30,16 +30,6 @@ My background in customer support, administration, and education gives me a uniq
 
 **- ✅Time Management**
 
-
-
-
-
-
-
-
-
-
-
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
