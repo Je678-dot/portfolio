@@ -115,11 +115,11 @@ aimed at fostering equality and encouraging educational opportunities. By blendi
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Ekpite Jennifer Data Analysis.pdf">Download my CV</a></td>
+      <td><a href="Ekpite Jennifer Data Analysis.pdf">Click to download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/ekpite-jennifer">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/ekpite-jennifer">Click to get to my LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
