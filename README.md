@@ -110,7 +110,7 @@ aimed at fostering equality and encouraging educational opportunities. By blendi
       <td>(234) 706-539-7274</td>
     </tr>
     <tr>
-      <td>📍</td>
+      <td>🌍</td>
       <td>Akure, Nigeria</td>
     </tr>
     <tr>
