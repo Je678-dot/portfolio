@@ -8,19 +8,28 @@ My background in customer support, administration, and education gives me a uniq
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-* As a Data Analyst, I transform raw data into meaningful insights that support smarter business decisions.*
+* As a Data Analyst, I transform raw data into meaningful insights that support smarter business decisions. *
 
-**- ✅ Data Cleaning and Transformatio.**
+**- ✅ Data Cleaning and Transformatio**
 
 **- ✅ Data Interpretation and Business Insights**
-**- ✅ KPI Development and Performance Tracking. **
-**- ✅ Reporting and Data Storytelling. **
-**- ✅ Problem Solving **
-**- ✅ Critical Thinking **
-**- ✅ Attention to Detail **
-**- ✅Communication and Presentation **
-**- ✅Stakeholder Management **
-**- ✅Time Management **
+
+**- ✅ KPI Development and Performance Tracking**
+
+**- ✅ Reporting and Data Storytelling**
+
+**- ✅ Problem Solving**
+
+**- ✅ Critical Thinking**
+
+**- ✅ Attention to Detail**
+
+**- ✅Communication and Presentation**
+
+**- ✅Stakeholder Management**
+
+**- ✅Time Management**
+
 
 
 
